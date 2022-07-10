@@ -1,0 +1,16 @@
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.exe
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.deps.json
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.runtimeconfig.json
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.runtimeconfig.dev.json
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.dll
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\ref\Lab_Oleg.dll
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\bin\Debug\net5.0\Lab_Oleg.pdb
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.dll
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\ref\Lab_Oleg.dll
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.pdb
+C:\Users\Pablo\source\repos\Lab_Oleg\Lab_Oleg\obj\Debug\net5.0\Lab_Oleg.genruntimeconfig.cache
